@@ -3,3 +3,4 @@ st.c.orig
 st.h.orig
 config.def.h.orig
 x.c.orig
+boxdraw.o
