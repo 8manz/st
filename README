@@ -1,11 +1,9 @@
 st - simple terminal
 --------------------
-
 st is a simple terminal emulator for X which sucks less.
 
 patches
 -------
-
 1. boxdraw
 2. glyph wide support
 3. font2
